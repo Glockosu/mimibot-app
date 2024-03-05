@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 210, 210, 210;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.circular-background {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50rem; /* Adjust the size as needed */
+  height: 50rem; /* Adjust the size as needed */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: -1;
+}
+
+.circular-background img {
+  width: 40%; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50%;
+  opacity: 0.5; /* Adjust the opacity as needed */
+  object-fit: cover;
+}
+
+.glow-green {
+  text-shadow: 0 0 10px rgba(22, 235, 199, 0.5); /* Adjust the color and size as needed */
+}
+
+.navbar-item:hover {
+  /* Apply the green glow effect */
+  text-shadow: 0 0 10px rgba(186, 255, 244, 0.5); /* Adjust the color and size as needed */
+  color:rgba(0, 209, 174, 0.616)
+}
+
+.selected-filter-class {
+  transform: scale(1.05);
+  filter: brightness(1.5); /* Adjust color and size to match your design */
+}

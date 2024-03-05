@@ -1,0 +1,572 @@
+[
+    {
+      "name": "yanuo",
+      "tag": "yanuo",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost/Volt",
+      "jsonpath": "./characterInfo/yanuo.json",
+      "images": {
+        "main": "./images/iconpack/yanuo.webp",
+        "backdrop": "./images/backdrop/yanuo.webp",
+        "element_image": "../images/icons/Element_FrostVolt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Plotti",
+      "tag": "plotti",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame/Physical",
+      "jsonpath": "./characterInfo/plotti.json",
+      "images": {
+        "main": "./images/iconpack/plotti.webp",
+        "backdrop": "./images/backdrop/plotti.webp",
+        "element_image": "../images/icons/Element_FlamePhysical.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Brevey",
+      "tag": "brevey",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Volt/Frost",
+      "jsonpath": "./characterInfo/brevey.json",
+      "images": {
+        "main": "./images/iconpack/brevey.webp",
+        "backdrop": "./images/backdrop/brevey.webp",
+        "element_image": "../images/icons/Element_VoltFrost.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Yan Miao",
+      "tag" : "yanmiao",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical/Flame",
+      "jsonpath": "../characterInfo/yanmiao.json",
+      "images": {
+        "main": "./images/iconpack/yanmiao.webp",
+        "backdrop": "./images/backdrop/yanmiao.webp",
+        "element_image": "../images/icons/Element_PhysicalFlame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Nan Yin",
+      "tag" : "nanyin",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Altered",
+      "jsonpath": "./characterInfo/nanyin.json",
+      "images": {
+        "main": "./images/iconpack/nanyin.webp",
+        "backdrop": "./images/backdrop/nanyin.webp",
+        "element_image": "../images/icons/Element_Altered.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Ling Han",
+      "tag" : "linghan",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/linghan.json",
+      "images": {
+        "main": "./images/iconpack/linghan.webp",
+        "backdrop": "./images/backdrop/linghan.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Fei Se",
+      "tag" : "feise",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/feise.json",
+      "images": {
+        "main": "./images/iconpack/feise.webp",
+        "backdrop": "./images/backdrop/feise.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Mimi",
+      "tag" : "mimi",
+      "type": "Fortitude",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/mimi.json",
+      "images": {
+        "main": "./images/iconpack/mimi.webp",
+        "backdrop": "./images/backdrop/mimi.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/Fort.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Zeke",
+      "tag" : "zeke",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical/Flame",
+      "jsonpath": "./characterInfo/zeke.json",
+      "images": {
+        "main": "./images/iconpack/zeke.webp",
+        "backdrop": "./images/backdrop/zeke.webp",
+        "element_image": "../images/icons/Element_PhysicalFlame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Yulan",
+      "tag" : "yulan",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/yulan.json",
+      "images": {
+        "main": "./images/iconpack/yulan.webp",
+        "backdrop": "./images/backdrop/yulan.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Liu Huo",
+      "tag" : "liuhuo",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/liuhuo.json",
+      "images": {
+        "main": "./images/iconpack/liuhuo.webp",
+        "backdrop": "./images/backdrop/liuhuo.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Rubilia",
+      "tag" : "rubilia",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/rubilia.json",
+      "images": {
+        "main": "./images/iconpack/rubilia.webp",
+        "backdrop": "./images/backdrop/rubilia.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Gnonno",
+      "tag" : "gnonno",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical",
+      "jsonpath": "./characterInfo/gnonno.json",
+      "images": {
+        "main": "./images/iconpack/gnonno.webp",
+        "backdrop": "./images/backdrop/gnonno.webp",
+        "element_image": "../images/icons/Element_Physical.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Fiona",
+      "tag" : "fiona",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Altered",
+      "jsonpath": "./characterInfo/fiona.json",
+      "images": {
+        "main": "./images/iconpack/fiona.webp",
+        "backdrop": "./images/backdrop/fiona.webp",
+        "element_image": "../images/icons/Element_Altered.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Icarus",
+      "tag" : "icarus",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/icarus.json",
+      "images": {
+        "main": "./images/iconpack/icarus.webp",
+        "backdrop": "./images/backdrop/icarus.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Lan",
+      "tag" : "lan",
+      "type": "Fortitude",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/lan.json",
+      "images": {
+        "main": "./images/iconpack/lan.webp",
+        "backdrop": "./images/backdrop/lan.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/Fort.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "tag" : "fenrir",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/fenrir.json",
+      "images": {
+        "main": "./images/iconpack/fenrir.webp",
+        "backdrop": "./images/backdrop/fenrir.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Umi",
+      "tag" : "umi",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical",
+      "jsonpath": "./characterInfo/umi.json",
+      "images": {
+        "main": "./images/iconpack/umi.webp",
+        "backdrop": "./images/backdrop/umi.webp",
+        "element_image": "../images/icons/Element_Physical.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Alyss",
+      "tag" : "alyss",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/alyss.json",
+      "images": {
+        "main": "./images/iconpack/alyss.webp",
+        "backdrop": "./images/backdrop/alyss.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Annabella",
+      "tag" : "annabella",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/annabella.json",
+      "images": {
+        "main": "./images/iconpack/annabella.webp",
+        "backdrop": "./images/backdrop/annabella.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Tian Lang",
+      "tag" : "tianlang",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/tianlang.json",
+      "images": {
+        "main": "./images/iconpack/tianlang.webp",
+        "backdrop": "./images/backdrop/tianlang.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Lyra",
+      "tag" : "lyra",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Physical",
+      "jsonpath": "./characterInfo/lyra.json",
+      "images": {
+        "main": "./images/iconpack/lyra.webp",
+        "backdrop": "./images/backdrop/lyra.webp",
+        "element_image": "../images/icons/Element_Physical.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Lin",
+      "tag" : "lin",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Altered",
+      "jsonpath": "./characterInfo/lin.json",
+      "images": {
+        "main": "./images/iconpack/lin.webp",
+        "backdrop": "./images/backdrop/lin.webp",
+        "element_image": "../images/icons/Element_Altered.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Saki Fuwa",
+      "tag" : "saki",
+      "type": "Fortitude",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/saki.json",
+      "images": {
+        "main": "./images/iconpack/saki.webp",
+        "backdrop": "./images/backdrop/saki.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/Fort.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Ruby",
+      "tag" : "ruby",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/ruby.json",
+      "images": {
+        "main": "./images/iconpack/ruby.webp",
+        "backdrop": "./images/backdrop/ruby.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Frigg",
+      "tag" : "frigg",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/frigg.json",
+      "images": {
+        "main": "./images/iconpack/frigg.webp",
+        "backdrop": "./images/backdrop/frigg.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Nemesis",
+      "tag" : "nemesis",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/nemesis.json",
+      "images": {
+        "main": "./images/iconpack/nemesis.webp",
+        "backdrop": "./images/backdrop/nemesis.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Cobalt-B",
+      "tag" : "cobalt",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/cobalt.json",
+      "images": {
+        "main": "./images/iconpack/cobalt.webp",
+        "backdrop": "./images/backdrop/cobalt.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Claudia",
+      "tag" : "claudia",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical",
+      "jsonpath": "./characterInfo/claudia.json",
+      "images": {
+        "main": "./images/iconpack/claudia.webp",
+        "backdrop": "./images/backdrop/claudia.webp",
+        "element_image": "../images/icons/Element_Physical.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Zero",
+      "tag" : "zero",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/zero.json",
+      "images": {
+        "main": "./images/iconpack/zero.webp",
+        "backdrop": "./images/backdrop/zero.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Tsubasa",
+      "tag" : "tsubasa",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/tsubasa.json",
+      "images": {
+        "main": "./images/iconpack/tsubasa.webp",
+        "backdrop": "./images/backdrop/tsubasa.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Shiro",
+      "tag" : "shiro",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Physical",
+      "jsonpath": "./characterInfo/shiro.json",
+      "images": {
+        "main": "./images/iconpack/shiro.webp",
+        "backdrop": "./images/backdrop/shiro.webp",
+        "element_image": "../images/icons/Element_Physical.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      } 
+    },
+    {
+      "name": "Samir",
+      "tag" : "samir",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/samir.json",
+      "images": {
+        "main": "./images/iconpack/samir.webp",
+        "backdrop": "./images/backdrop/samir.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Meryl",
+      "tag" : "meryl",
+      "type": "Fortitude",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/meryl.json",
+      "images": {
+        "main": "./images/iconpack/meryl.webp",
+        "backdrop": "./images/backdrop/meryl.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/Fort.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "King",
+      "tag" : "king",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/king.json",
+      "images": {
+        "main": "./images/iconpack/king.webp",
+        "backdrop": "./images/backdrop/king.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Huma",
+      "tag" : "huma",
+      "type": "Fortitude",
+      "value": "SSR",
+      "element": "Flame",
+      "jsonpath": "./characterInfo/huma.json",
+      "images": {
+        "main": "./images/iconpack/huma.webp",
+        "backdrop": "./images/backdrop/huma.webp",
+        "element_image": "../images/icons/Element_Flame.png",
+        "type_image": "../images/icons/Fort.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "tag" : "crow",
+      "type": "DPS",
+      "value": "SSR",
+      "element": "Volt",
+      "jsonpath": "./characterInfo/crow.json",
+      "images": {
+        "main": "./images/iconpack/crow.webp",
+        "backdrop": "./images/backdrop/crow.webp",
+        "element_image": "../images/icons/Element_Volt.png",
+        "type_image": "../images/icons/DPS.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    },
+    {
+      "name": "Cocoritter",
+      "tag" : "cocoritter",
+      "type": "Support",
+      "value": "SSR",
+      "element": "Frost",
+      "jsonpath": "./characterInfo/cocoritter.json",
+      "images": {
+        "main": "./images/iconpack/cocoritter.webp",
+        "backdrop": "./images/backdrop/cocoritter.webp",
+        "element_image": "../images/icons/Element_Frost.png",
+        "type_image": "../images/icons/Bene.png",
+        "value_image": "../images/icons/SSR.png"
+      }
+    }
+  ]
